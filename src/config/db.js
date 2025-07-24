@@ -1,6 +1,6 @@
 // Import required libraries
 const mongoose = require('mongoose'); // To connect and interact with MongoDB
-const dotenv = require('dotenv');     // To load environment variables from .env file
+const dotenv = require('dotenv');     // To load env variables from .env file
 
 // Load environment variables from .env file into process.env
 dotenv.config();
